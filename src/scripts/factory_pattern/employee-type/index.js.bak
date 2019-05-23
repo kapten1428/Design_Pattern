@@ -1,0 +1,12 @@
+/* Example Source code from :
+'https://www.dofactory.com/javascript/factory-method-design-pattern'
+-------------------------------------------------------------------*/
+
+import { EmployeeFactory } from './factory_pattern/employee-type/employee-factory.js';
+
+
+const employee = new EmployeeFactory();
+const miko = employee.createEmployee('full');
+const magician = employee.createEmployee('partime');
+const yuma = employee.createEmployee('temporary');
+
