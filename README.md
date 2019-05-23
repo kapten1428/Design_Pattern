@@ -1,4 +1,4 @@
-# DESIGN PATTERN CODE COLLECTION
+# ES6/7 DESIGN PATTERN CODE COLLECTION
 
 :shipit: Design pattern code collection for beginner exercise to learn design pattern.
 
