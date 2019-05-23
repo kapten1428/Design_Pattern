@@ -1,9 +1,6 @@
-# Webpack, ES6 and SCSS boilerplate
-Very simple boilerplate which can be used as a starting point to build small webapps or websites. Uses webpack-dev-server as a development server.
+# DESIGN PATTERN CODE COLLECTION
 
-## Usage
-1. Clone or download
-2. Install dependencies `npm i`
-3. Start dev server `npm start`
-4. App is running on localhost:8080
-5. Start coding!
+U+1F49B	 Design pattern code collection for beginner exercise to learn design pattern.
+
+## Credits
+Thank to [@pauljson](https://github.com/pauljson) for Webpack, ES6 and SCSS boilerplate 
